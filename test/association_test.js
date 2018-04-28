@@ -4,7 +4,7 @@ const Comment = require('../src/comment');
 const BlogPost = require('../src/BlogPost');
 const assert = require('assert');
 
-describe('Associations', () => {
+describe('Associations Of Coolections', () => {
   let joe, blogPost, comment;
 
   beforeEach((done) => {
